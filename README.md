@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+﻿# Welkom! 
+## CoderDojo-sessies najaar 2018
+1. 22 september 2018
+1. 20 oktober 2018
+1. 17 november 2018
+1. 22 december 2018
+uur: van 10u - 12u30
+locatie: Bib Sint-Niklaas, H. Heymanplein, Sint-Niklaas
 
-You can use the [editor on GitHub](https://github.com/CoderDojoSintNiklaas/coderdojosintniklaas.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+De inschrijvingen voor de eerste sessie van het nieuwe werkjaar openen we op zaterdag 8 september om 9:00 meteen voor iedereen.  Voor deze sessie hebben we volgende plaatsjes beschikbaar:
+* CoderDojo-sessie: 35 plekjes
+* Proefsessie: 5 plekjes (voor jongeren die nog nooit deelnamen aan een CoderDojo-sessie in Sint-Niklaas)
+* Gele band: onbeperkt (enkel voor jongeren met een gele band van CoderDojo Sint-Niklaas)
+* Vanaf oktober tot juni volgen we de inschrijvingsprocedure als voorheen:
+* kinderen van de coaches - (op uitnodiging met wachtwoord)
+* deelnemers van de vorige sessie - (op uitnodiging met wachtwoord)
+* wachtlijst van de vorige sessie, deelnemers vorige sessies en deelnemers proefsessies -  (op uitnodiging met wachtwoord)
+* open inschrijvingen -  (dan verdwijnt het paswoord)
+* Inschrijvingen openen elke maand. Achtereenvolgens krijgen de verschillende groepen een uitnodiging om in te schrijven totdat de sessie volzet is. Zijn er nog plekjes vrij dan zijn er open inschrijvingen die we aankondigen op Facebook, deze website en versturen naar onze mailinglijst.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Wat kun je doen als de sessie volzet is?
+Zet je op de wachtlijst, komt er een plekje vrij dan verwittigen we je. Komt er geen plekje vrij, dan krijg je van ons voor de volgende sessie de uitnodiging nadat de jongeren van de coaches en de jongeren van de vorige sessie ingeschreven zijn.
 
-### Markdown
+Omdat er zoveel interesse is in CoderDojo voorzien we een proefsessie voor 5 kinderen. Deze proefsessies zijn voor kinderen die nog nooit deelnamen aan een CoderDojo-sessie. Hier kun je dus 1 keer gebruik van maken, op deze manier proberen wij elke sessie vijf nieuwe jongeren de kans te geven om CoderDojo te ontdekken.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Tijdens gratis Dojo-sessies leren 20- 25 jongeren tussen 7 en 18 jaar websites, games en apps bouwen. Met ondersteuning van coaches maar vooral door het zelf te doen. Alle dojosessies worden voorbereid en gegeven door coaches op vrijwillige basis.
 
-```markdown
-Syntax highlighted code block
+Ze kunnen telkens kiezen uit drie verschillende experimenteerpaden:
+* basic programmeren
+* MBots
+* traject gele band
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CoderDojoSintNiklaas/coderdojosintniklaas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wil je graag op de hoogte blijven of een uitnodiging voor een CoderDojo sessie  ontvangen? Schrijf je dan in op onze mailinglijst. 
