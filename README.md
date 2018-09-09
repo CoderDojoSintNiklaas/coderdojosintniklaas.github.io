@@ -13,7 +13,7 @@ op volgende dagen :
 * 17 november 2018
 * 22 december 2018
 
-##inschrijvingen 
+## inschrijvingen 
 De online inschrijvingen voor de eerste sessie van het nieuwe werkjaar werden geopend op zaterdag 8 september om 9:00 meteen voor iedereen.  
 Voor deze sessie hebben we volgende plaatsjes beschikbaar:
 * CoderDojo-sessie: 35 plekjes
@@ -37,5 +37,5 @@ Ze kunnen telkens kiezen uit drie verschillende experimenteerpaden:
 * MBots
 * traject gele band
 
-##Mailinglijst
+## Mailinglijst
 Wil je graag op de hoogte blijven of een uitnodiging voor een CoderDojo sessie  ontvangen? Schrijf je dan in op onze mailinglijst. 
