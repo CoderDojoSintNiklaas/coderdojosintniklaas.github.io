@@ -1,13 +1,15 @@
 ﻿# Welkom! 
 ## CoderDojo-sessies najaar 2018
-1. 22 september 2018
-1. 20 oktober 2018
-1. 17 november 2018
-1. 22 december 2018
+* 22 september 2018
+* 20 oktober 2018
+* 17 november 2018
+* 22 december 2018
+
 uur: van 10u - 12u30
 locatie: Bib Sint-Niklaas, H. Heymanplein, Sint-Niklaas
 
-De inschrijvingen voor de eerste sessie van het nieuwe werkjaar openen we op zaterdag 8 september om 9:00 meteen voor iedereen.  Voor deze sessie hebben we volgende plaatsjes beschikbaar:
+De inschrijvingen voor de eerste sessie van het nieuwe werkjaar openen we op zaterdag 8 september om 9:00 meteen voor iedereen.  
+Voor deze sessie hebben we volgende plaatsjes beschikbaar:
 * CoderDojo-sessie: 35 plekjes
 * Proefsessie: 5 plekjes (voor jongeren die nog nooit deelnamen aan een CoderDojo-sessie in Sint-Niklaas)
 * Gele band: onbeperkt (enkel voor jongeren met een gele band van CoderDojo Sint-Niklaas)
