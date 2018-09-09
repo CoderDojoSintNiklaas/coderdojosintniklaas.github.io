@@ -1,7 +1,7 @@
 ﻿# Welkom! 
 ## CoderDojo-sessies najaar 2018
 
-Tijdens gratis Dojo-sessies leren een 20-tal jongeren tussen 7 en 18 jaar websites, games en apps bouwen. Met ondersteuning van coaches maar vooral door het zelf te doen. Alle dojosessies worden voorbereid en gegeven door coaches op vrijwillige basis.
+Tijdens gratis Dojo-sessies leren een 30-tal jongeren tussen 7 en 18 jaar websites, games en apps bouwen. Met ondersteuning van coaches maar vooral door het zelf te doen. Alle dojosessies worden voorbereid en gegeven door coaches op vrijwillige basis.
 
 ## Waar & wanneer? 
 
