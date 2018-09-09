@@ -14,8 +14,8 @@ Tijdens gratis Dojo-sessies leren een 20-tal jongeren tussen 7 en 18 jaar websit
 * 17 november 2018
 * 22 december 2018
 
-## inschrijvingen 
-De online inschrijvingen voor de eerste sessie van het nieuwe werkjaar werden geopend op zaterdag 8 september om 9:00 meteen voor iedereen.  
+## Inschrijvingen 
+De online inschrijvingen voor de eerste sessie van het nieuwe werkjaar werden geopend op zaterdag 8 september om 9:00, meteen voor iedereen. U wordt hiervoor per mail uitgenodigd.   
 Voor deze sessie hebben we volgende plaatsjes beschikbaar:
 * CoderDojo-sessie: 35 plekjes
 * Proefsessie: 5 plekjes (voor jongeren die nog nooit deelnamen aan een CoderDojo-sessie in Sint-Niklaas)
@@ -26,7 +26,7 @@ Vanaf oktober tot juni volgen we de inschrijvingsprocedure als voorheen:
 * deelnemers van de vorige sessie - (op uitnodiging met wachtwoord)
 * wachtlijst van de vorige sessie, deelnemers vorige sessies en deelnemers proefsessies -  (op uitnodiging met wachtwoord)
 * open inschrijvingen -  (dan verdwijnt het paswoord)
-* Inschrijvingen openen elke maand. Achtereenvolgens krijgen de verschillende groepen een uitnodiging om in te schrijven totdat de sessie volzet is. Zijn er nog plekjes vrij dan zijn er open inschrijvingen die we aankondigen op Facebook, deze website en versturen naar onze mailinglijst.
+* Inschrijvingen openen elke maand. Achtereenvolgens krijgen de verschillende groepen een uitnodiging per email om in te schrijven totdat de sessie volzet is. Zijn er nog plekjes vrij dan zijn er open inschrijvingen die we aankondigen op Facebook, deze website en versturen naar onze mailinglijst.
 
 Wat kun je doen als de sessie volzet is?
 * Zet je op de wachtlijst, komt er een plekje vrij dan verwittigen we je. Komt er geen plekje vrij, dan krijg je van ons voor de volgende sessie de uitnodiging nadat de jongeren van de coaches en de jongeren van de vorige sessie ingeschreven zijn.
