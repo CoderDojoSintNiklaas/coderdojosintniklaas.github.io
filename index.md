@@ -7,6 +7,7 @@ Tijdens gratis Dojo-sessies leren een 20-tal jongeren tussen 7 en 18 jaar websit
 
 * van 10u - 12u30
 * locatie: Bib Sint-Niklaas, H. Heymanplein, Sint-Niklaas
+
 op volgende dagen : 
 * 22 september 2018
 * 20 oktober 2018
